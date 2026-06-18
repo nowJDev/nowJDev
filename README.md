@@ -69,18 +69,18 @@ STYLE       Build with trust, clarity, and servant leadership
 
 ## FEATURED_PROJECTS
 
-| Project | Summary | Stack |
-|---|---|---|
-| RCP 자동 예측 진단 시스템 | RCP PMS/VMS/PHI 데이터를 통합하고, 3D 발전소 감시 및 실시간 원인분석 화면을 개발했습니다. | `Unity` `C#` `HDRP` `Shader Graph` |
-| 디지털 트윈 빅데이터 플랫폼 | 신고리 3, 4호기 2차계통 열성능 분석과 진단/예측 결과를 3D 모델, 차트, 실시간 데이터로 연결했습니다. | `Unity` `C#` `Realtime Data` `Chart UI` |
-| 원전종합상황실 고도화 | 국내 원전 1차측 모델, 제어봉/Water Flow, CEA/In-Core/CET/CPC 데이터를 3D 상태감시 화면으로 구현했습니다. | `Unity` `C#` `HDRP` `Realtime Data` |
-| APR1400 Metaverse 운영 플랫폼 | APR1400 디지털트윈용 1차측 3D 시각화, 발전소 데이터 연계, 설비 상태 차트 및 운영 검증 화면을 개발했습니다. | `Unity` `C#` `Digital Twin` |
-| KAIST 스마트시티 방역 플랫폼 | KI빌딩 3D 모델, IndoorGML 요소, 센서 데이터, 8방향 공기 흐름 시각화 기능을 구현했습니다. | `Unity` `C#` `HTTP API` `Particle System` |
-| 유성구 디지털행정 스마트시티 | 유성구청 및 공공시설물 디지털 트윈, 생활/관광/민원/재난 정보 콘텐츠를 구현했습니다. | `Unity` `C#` `Smart City` |
-| SMR 스마트 넷제로 시티 | Unreal 기반 도시 구성 요소 3D 빌더, 에너지 공급/소비 시뮬레이션, 시네마틱 뷰어 기능을 개발했습니다. | `Unreal 5.3` `Blueprint` `C++` `PCG` |
-| SSNC Builder & Game | Unity 기반 6각형 타일 도시 빌더와 카드/타일 기반 넷제로 시티 체험 게임을 개발했습니다. | `Unity 6` `C#` `SQLite` `CSV` `Localization` |
-| 핫셀 시설 디지털 트윈 | IMEF 핫셀 공조 설비의 SCADA, 진동, P-Q Curve, 사고예측 데이터를 3D 상태모니터링 화면에 통합했습니다. | `Unity 6` `C#` `PostgreSQL` `MongoDB` `HDRP` |
-| IoT 보조기기 진단지원 시스템 | Bluetooth 진동 데이터 수집, 실시간 차트, Realm 저장, ARCore 기반 현장 정보 표시 앱을 개발했습니다. | `Java` `Android` `Realm` `ARCore` |
+| Period | Project | Summary | Stack |
+|---|---|---|---|
+| 2019.01 ~ 2021.06 | IoT 보조기기 진단지원 시스템 | Bluetooth 진동 데이터 수집, 실시간 차트, Realm 저장, ARCore 기반 현장 정보 표시 앱을 개발했습니다. | `Java` `Android` `Realm` `ARCore` |
+| 2019.02 ~ 2024.12 | RCP 자동 예측 진단 시스템 | RCP PMS/VMS/PHI 데이터를 통합하고, 3D 발전소 감시 및 실시간 원인분석 화면을 개발했습니다. | `Unity` `C#` `HDRP` `Shader Graph` |
+| 2020.06 ~ 2022.05 | KAIST 스마트시티 방역 플랫폼 | KI빌딩 3D 모델, IndoorGML 요소, 센서 데이터, 8방향 공기 흐름 시각화 기능을 구현했습니다. | `Unity` `C#` `HTTP API` `Particle System` |
+| 2020.08 ~ 2021.08 | 디지털 트윈 빅데이터 플랫폼 | 신고리 3, 4호기 2차계통 열성능 분석과 진단/예측 결과를 3D 모델, 차트, 실시간 데이터로 연결했습니다. | `Unity` `C#` `Realtime Data` `Chart UI` |
+| 2020.11 ~ 2022.08 | 원전종합상황실 고도화 | 국내 원전 1차측 모델, 제어봉/Water Flow, CEA/In-Core/CET/CPC 데이터를 3D 상태감시 화면으로 구현했습니다. | `Unity` `C#` `HDRP` `Realtime Data` |
+| 2021.05 ~ 2021.08 | 유성구 디지털행정 스마트시티 | 유성구청 및 공공시설물 디지털 트윈, 생활/관광/민원/재난 정보 콘텐츠를 구현했습니다. | `Unity` `C#` `Smart City` |
+| 2022.07 ~ 2025.01 | APR1400 Metaverse 운영 플랫폼 | APR1400 디지털트윈용 1차측 3D 시각화, 발전소 데이터 연계, 설비 상태 차트 및 운영 검증 화면을 개발했습니다. | `Unity` `C#` `Digital Twin` |
+| 2023.03 ~ 2023.12 | SMR 스마트 넷제로 시티 | Unreal 기반 도시 구성 요소 3D 빌더, 에너지 공급/소비 시뮬레이션, 시네마틱 뷰어 기능을 개발했습니다. | `Unreal 5.3` `Blueprint` `C++` `PCG` |
+| 2024.08 ~ 2025.12 | SSNC Builder & Game | Unity 기반 6각형 타일 도시 빌더와 카드/타일 기반 넷제로 시티 체험 게임을 개발했습니다. | `Unity 6` `C#` `SQLite` `CSV` `Localization` |
+| 2025.09 ~ 2025.12 | 핫셀 시설 디지털 트윈 | IMEF 핫셀 공조 설비의 SCADA, 진동, P-Q Curve, 사고예측 데이터를 3D 상태모니터링 화면에 통합했습니다. | `Unity 6` `C#` `PostgreSQL` `MongoDB` `HDRP` |
 
 ---
 
