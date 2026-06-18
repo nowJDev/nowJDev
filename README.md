@@ -4,7 +4,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://wjnoh0117.notion.site/Noh-Woo-jeong-s-Portfolio-92b693e515a243d4a14fc980c29991cc?pvs=74)
 [![Email](https://img.shields.io/badge/Email-me3291%40naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white)](mailto:me3291@naver.com)
-[![GitHub](https://img.shields.io/badge/GitHub-devWJ93-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devWJ93)
+[![GitHub](https://img.shields.io/badge/GitHub-nowJDev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nowJDev)
 
 </div>
 
@@ -81,19 +81,6 @@ STYLE       Build visual systems that connect real-world data to interactive 3D 
 | Certificate | 정보처리기사, 2016.05.06 |
 | Patent | 펌프 베어링 시스템의 디지털 트윈 기반 예측진단 장치, 10-2019-0149497 |
 
----
-
-## BATTLE_STATS
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devWJ93&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devWJ93&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## CURRENT_QUEST
 
 ```txt
@@ -103,6 +90,6 @@ They should explain what is happening, why it matters, and what comes next.
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=devWJ93&style=flat-square&color=36BCF7)
+![Profile Views](https://komarev.com/ghpvc/?username=nowJDev&style=flat-square&color=36BCF7)
 
 </div>
